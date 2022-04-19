@@ -11,4 +11,3 @@ const senhaValida = SistemaAutenticacao.login(diretor, "Luc2436!")
 
 
 console.log(senhaValida)
-
